@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.ra.android.routerating.RouteActivity" >
+
+     <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never" 
+        tools:ignore="@string/action_settings,MenuTitle"/>
+    
+</menu>

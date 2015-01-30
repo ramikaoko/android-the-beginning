@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Route Rating</string>
+    <string name="details_textView">Details</string>
+    <string name="route_title_hint">Whats the name of the route?</string>
+    <string name="route_color_hint" tools:ignore="TypographyEllipsis">... and what is the color?</string>
+    <string name="route_setter_hint">who set it?</string>
+    <string name="isDone_checkBox_text">is it done?</string>
+    <string name="date_button_text">When was it finished?</string>
+    <string name="diff_button_text">Pick your estimated difficulty</string>
+    <string name="date_button_done_text">OK</string>
+    <string name="diff_button_done_text">OK</string>
+    <string name="uiaa_diff_text">UIAA</string>
+    <string name="uiaa_diff_button">OK</string>
+    <string name="frz_diff_text">Frz.</string>
+    <string name="frz_diff_button">OK</string>
+    <string name="change_route_button_text">Change a route</string>
+    <string name="create_new_route_button_text">Create a new route</string>
+    <string name="show_all_button_text">Show all routes</string>
+
+</resources>
